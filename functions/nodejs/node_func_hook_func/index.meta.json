@@ -1,0 +1,16 @@
+{
+  "apiID": "package_e06989__c__function_aadhxvalawgni",
+  "apiName": "node_func_hook_func",
+  "label": {
+    "zh_CN": "node函数调函数",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

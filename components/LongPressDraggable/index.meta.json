@@ -1,0 +1,18 @@
+{
+  "apiName": "LongPressDraggable",
+  "label": {
+    "zh_CN": "LongPressDraggable",
+    "en_US": ""
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "Long Press Draggable 组件描述",
+    "en_US": "Long Press Draggable component description"
+  },
+  "device": [
+    "mobile",
+    "pc"
+  ],
+  "protocolVersion": "3.0"
+}

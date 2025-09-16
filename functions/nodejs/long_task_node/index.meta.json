@@ -1,0 +1,16 @@
+{
+  "apiID": "package_e06989__c__function_aadhwlnzfciii",
+  "apiName": "func_node_02",
+  "label": {
+    "zh_CN": "长任务node函数",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

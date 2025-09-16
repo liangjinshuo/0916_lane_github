@@ -1,0 +1,16 @@
+{
+  "apiID": "package_e06989__c__function_aadhqzeaovutg",
+  "apiName": "func_node02",
+  "label": {
+    "zh_CN": "异步函数-node",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

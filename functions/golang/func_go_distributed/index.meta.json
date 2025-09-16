@@ -1,0 +1,16 @@
+{
+  "apiID": "package_e06989__c__function_aadicgggkmg3s",
+  "apiName": "func_go001",
+  "label": {
+    "zh_CN": "go函数被分布式任务函数调用",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

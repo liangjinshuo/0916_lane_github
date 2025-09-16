@@ -1,0 +1,17 @@
+{
+  "apiID": "package_e06989__c__function_aadhqzxz7xgca",
+  "apiName": "func_node03",
+  "label": {
+    "zh_CN": "public API",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "isPublicAPI": true,
+  "input": [],
+  "output": []
+}
