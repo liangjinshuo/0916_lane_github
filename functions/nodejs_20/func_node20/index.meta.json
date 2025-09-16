@@ -1,0 +1,16 @@
+{
+  "apiID": "package_e06989__c__function_aadib5cqpkaju",
+  "apiName": "func_node20_metrics",
+  "label": {
+    "zh_CN": "node20",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

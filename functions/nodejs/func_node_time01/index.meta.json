@@ -1,0 +1,16 @@
+{
+  "apiID": "package_e06989__c__function_aadicgh5ypuow",
+  "apiName": "func_node_time01",
+  "label": {
+    "zh_CN": "被分布式任务函数所触发的函数",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

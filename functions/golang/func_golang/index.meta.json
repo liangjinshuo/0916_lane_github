@@ -1,0 +1,16 @@
+{
+  "apiID": "package_e06989__c__function_aadhuxc4jdogg",
+  "apiName": "func_golang",
+  "label": {
+    "zh_CN": "分布式任务函数-golang",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

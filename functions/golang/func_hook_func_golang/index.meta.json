@@ -1,0 +1,16 @@
+{
+  "apiID": "package_e06989__c__function_aadhxvat7yidw",
+  "apiName": "func_hook_func_golang",
+  "label": {
+    "zh_CN": "golang函数调函数",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

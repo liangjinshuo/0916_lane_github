@@ -1,0 +1,16 @@
+{
+  "apiID": "package_e06989__c__function_aadicggrloisw",
+  "apiName": "func_golang_baassdk_invoke_go",
+  "label": {
+    "zh_CN": "被golang函数baas sdk调用的",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

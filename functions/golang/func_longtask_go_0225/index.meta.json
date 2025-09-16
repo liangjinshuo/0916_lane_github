@@ -1,0 +1,16 @@
+{
+  "apiID": "package_e06989__c__function_aadhxuzz6aoew",
+  "apiName": "func_longtask_go_0225",
+  "label": {
+    "zh_CN": "【0225】异步函数-golang",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

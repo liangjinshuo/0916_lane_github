@@ -1,0 +1,18 @@
+{
+  "apiName": "errorComponent",
+  "label": {
+    "zh_CN": "errorComponent",
+    "en_US": ""
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "error Component 组件描述",
+    "en_US": "error Component component description"
+  },
+  "device": [
+    "mobile",
+    "pc"
+  ],
+  "protocolVersion": "3.0"
+}
